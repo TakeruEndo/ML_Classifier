@@ -1,0 +1,1 @@
+python test.py --paths './test/test.jpg' --model_path ./models/output_7.pth
