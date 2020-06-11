@@ -19,7 +19,6 @@ epoch: 6  {'train_loss': 0.11048330409186227} {'valid_loss': 1.8652525742848713,
 ![result](https://github.com/TakeruEndo/ML_Classifier/blob/master/penguin_search/images/demo.png)
 
 ## ペンギンの種類
-:wq
 1. Emperor Penguin
 2. Rockhopper Penguin
 3. Galápagos penguin
